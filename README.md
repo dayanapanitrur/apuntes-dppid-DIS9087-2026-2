@@ -8,7 +8,7 @@ https://github.com/dayanapanitrur/dis9087-2026-2
 
 ### Docentes:
 
-Felipe Roa: 
+Felipe Roa
 > https://github.com/fefeliperoar
 
 Santiago Gaete
