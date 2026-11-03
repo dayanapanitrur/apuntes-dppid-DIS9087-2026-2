@@ -1,15 +1,13 @@
 # Clase jueves 8 de octubre de 2026
 
-Apuntes de la clase de *Dispositivos periféricos y plataformas para la interacción* (DIS9087).
+dppi apuntes
 
-## Temas vistos
+8/10/2026
 
--
+Hoy presentamos el trabajo 04
 
-## Apuntes
+Felipe nos presentó un MIDI que el invitado creador de la interfaz no pudo traer, por lo que ahora nos está mostrando como ocuparlo en las visuales.
 
-## Ejercicios / actividades
+Los controladores MIDI pueden modificar más que solo sonido.
 
-## Referencias y enlaces
-
--
+El MIDI de Arturia, y muchos de estos MIDI tienen potenciómetros del tipo encoders y del tipo sliders. En el sketch tools los ocupó para regular el tamaño de los textos.
