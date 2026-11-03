@@ -4,6 +4,8 @@ Apuntes de la clase de *Dispositivos periféricos y plataformas para la interacc
 
 jueves 22/10/2026
 
+En esta clase es donde más tomé apuntes ya que hablamos sobre cosas que me gustan mucho jeje, todo lo que es la síntesis del sonido, las ondas, los FX, la modulación del sonido, etc. 
+
 ## apuntes
 
 hoy veremos: 4 variables para diseñar sonido, la herramienta **Oír la luz** y el encargo 06
